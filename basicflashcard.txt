@@ -1,0 +1,6 @@
+{"question":"Who is the current president of the united states?","answer":"Donald Trump"}
+{"question":"What is the name of the first president of the us?","answer":"george washington"}
+{"question":"who am i","answer":"the girl named sugar"}
+{"question":"who was the first us president?","answer":"george washington"}
+{"question":"who is my best friend in bootcamp class?","answer":"Corey...duh"}
+{"question":"who am i?","answer":"i dont know!"}

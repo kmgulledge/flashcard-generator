@@ -1,0 +1,4 @@
+{"cloze":"what is","phrase":"my name"}
+{"cloze":"john candy","phrase":"who plaid in uncle buck.."}
+{"cloze":"george washington","phrase":"was the first united states president"}
+{"cloze":"corey","phrase":"is awesome!"}
